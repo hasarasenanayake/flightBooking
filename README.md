@@ -12,3 +12,6 @@ Running features • Goto project directory. • Use "mvn test" command to run f
 Test source files are in src\test\java folder Page objects available in src\test\java\OnlinePages Feature files are available in src\test\java\resources\features Runner file is available in src\test\java\runner StepDefinitions are available in src\test\java\stepDefinitions.
 
 Generated reports are available in the project directory under Target folder : serviceNSW/serviceNSW-Project/target/cucumber-reports/
+
+Circle CI Integration
+![image](https://user-images.githubusercontent.com/57488334/162578547-23496e01-e1e0-4114-95bc-46d83e9f9390.png)
