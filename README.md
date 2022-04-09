@@ -1,4 +1,4 @@
-Selenium-cucumber-java selenium-cucumber : serviceNSW Automation Testing Using Java
+Selenium-cucumber-java selenium-cucumber : BookingFlight Automation Testing Using Java
 
 Pre-requisites • Java • Maven • Intellij o Maven o Cucumber
 
